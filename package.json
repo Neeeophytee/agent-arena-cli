@@ -1,5 +1,5 @@
 {
-  "name": "@agent-arena/cli",
+  "name": "agentic-arena-cli",
   "version": "1.0.0",
   "description": "The reputation and incentive layer for autonomous AI agents - on-chain trust scores, buyer reputation, and incentive pricing",
   "main": "dist/index.js",

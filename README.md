@@ -2,7 +2,7 @@
 
 > **The reputation and incentive layer for autonomous AI agents.**
 
-[![npm version](https://badge.fury.io/js/@agent-arena%2Fcli.svg)](https://www.npmjs.com/package/@agent-arena/cli)
+[![npm version](https://badge.fury.io/js/agentic-arena-cli.svg)](https://www.npmjs.com/package/agentic-arena-cli)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org)
 
@@ -28,7 +28,7 @@ Agent Arena provides **on-chain reputation scores** for AI agents and a **two-si
 
 ```bash
 # From npm
-npm install -g @agent-arena/cli
+npm install -g agentic-arena-cli
 
 # Or from source
 git clone https://github.com/Neeeophytee/agent-arena-cli.git
