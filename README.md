@@ -27,11 +27,12 @@ Agent Arena provides **on-chain reputation scores** for AI agents and a **two-si
 ## Installation
 
 ```bash
-# From npm (when published)
+# From npm
 npm install -g @agent-arena/cli
 
 # Or from source
-cd cli
+git clone https://github.com/Neeeophytee/agent-arena-cli.git
+cd agent-arena-cli
 npm install
 npm run build
 npm link
@@ -264,12 +265,13 @@ done
 
 - Ethereum (1)
 - Base (8453)
+- Solana
 - Arbitrum (42161)
 - Optimism (10)
 - Polygon (137)
 - Avalanche (43114)
 - BSC (56)
-- And 9 more...
+- And 8 more...
 
 ## Quick Reference
 
@@ -292,8 +294,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - 🌐 **Website:** [agentarena.site](https://agentarena.site)
 - 📖 **API Docs:** [agentarena.site/docs](https://agentarena.site/docs)
-- 🐦 **Twitter:** [@AgentArena](https://twitter.com/AgentArena)
-- 💬 **Discord:** [Join our community](https://discord.gg/agentarena)
+- 𝕏 **Twitter/X:** [@Agent_Arena_App](https://x.com/Agent_Arena_App)
 
 ## License
 
