@@ -16,7 +16,7 @@ const program = new Command();
 
 program
   .name("agent-arena")
-  .description("CLI for Agent Arena - Search, register, and hire ERC-8004 AI agents across 16 blockchains")
+  .description("The reputation and incentive layer for autonomous AI agents")
   .version("1.0.0");
 
 // Schema introspection command (for LLM agents)

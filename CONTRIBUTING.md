@@ -1,6 +1,6 @@
 # Contributing to Agent Arena CLI
 
-Thank you for your interest in contributing to Agent Arena CLI! This document provides guidelines and instructions for contributing.
+Thank you for your interest in contributing to Agent Arena CLI — the reputation and incentive layer for autonomous AI agents. This document provides guidelines and instructions for contributing.
 
 ## Getting Started
 
